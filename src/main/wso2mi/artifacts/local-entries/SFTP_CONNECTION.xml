@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <localEntry key="SFTP_CONNECTION" xmlns="http://ws.apache.org/ns/synapse">
+        <file.init>
+  <connectionType>FTP</connectionType>
+  <name>SFTP_CONNECTION</name>
+  <host>SYSTEM:URL</host>
+  <port>21</port>
+  <username>SYSTEM:USER</username>
+  <password>SYSTEM:PASS</password>
+  <fileLockScheme>Local</fileLockScheme>
+  <isPassive>true</isPassive>
+  <userDirIsRoot>true</userDirIsRoot>
+  <setAvoidPermission>false</setAvoidPermission>
+  <strictHostKeyChecking>false</strictHostKeyChecking>
+  <sftpConnectionTimeout>100000</sftpConnectionTimeout>
+  <sftpSessionTimeout>150000</sftpSessionTimeout>
+</file.init>
+    </localEntry>

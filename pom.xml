@@ -341,7 +341,7 @@
     </profile>
   </profiles>    
   <properties>
-    <project.runtime.version>4.3.0.0<project.runtime.version>
+    <project.runtime.version>4.3.0</project.runtime.version>
     <projectType>integration-project</projectType>
     <uuid>e9758ed3-75b0-4aec-b9ad-d4e07afa1d62</uuid>
     <!-- <archiveLocation>configure a custom target directory for CAPP</archiveLocation> -->
